@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-7ead74?style=for-the-badge&logo=google-chrome&logoColor=white)](https://simonmarcotte.app)
 
 * 🎓 Pursuing a BSc. in Computer Engineering Co-op at the University of Alberta.
-* Incoming SDE Intern @ Nokia | Prev @ General Fusion and UAlberta
+* 🇨🇦 Incoming SDE Intern @ Nokia | Prev @ General Fusion and UAlberta
 
 Hey, I’m Simon Marcotte, a 4th year Computer Engineering student at the University of Alberta. I recently completed an internship at General Fusion, and I am interested in backend software, hardware, and automation. Feel free to message or email me with any questions.
 

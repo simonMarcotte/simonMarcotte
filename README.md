@@ -5,9 +5,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://simonmarcotte.app)
 
 * 🎓 Pursuing a BSc. in Computer Engineering Co-op at the University of Alberta.
-* 🇨🇦 Incoming Software Development Engineering Intern @ Amazon | Prev @ General Fusion and UAlberta
+* 🇨🇦 Software Development Engineering Intern @ Amazon Web Services | Prev @ General Fusion and UAlberta
 
-Hey, I’m Simon Marcotte, a 4th year Computer Engineering student at the University of Alberta. I recently completed an internship at General Fusion, and I am interested in backend software, hardware, and automation. Feel free to message or email me with any questions.
+Hey, I’m Simon Marcotte, a 4th year Computer Engineering student at the University of Alberta. I am currently working in the Oracle Database team at AWS, and I am interested in backend software, hardware, and automation. Feel free to message or email me with any questions.
 
 A link to my portfolio website can be found above ([simonmarcotte.app](https://simonmarcotte.app/)) feel free to check it out!
 

@@ -9,6 +9,6 @@
 
 Hey, I’m Simon Marcotte, a 4th year Computer Engineering student at the University of Alberta. I am currently working in the Oracle Database team at AWS, and I am interested in backend software, hardware, and automation. Feel free to message or email me with any questions.
 
-A link to my portfolio website can be found above ([simonmarcotte.app](https://simonmarcotte.app/)) feel free to check it out!
+A link to my portfolio website can be found above ([simonmarcotte.app](https://simonmarcotte.io/)) feel free to check it out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonMarcotte&hide=javascript,css,scss,html,Jupyter%20Notebook,CMake&theme=tokyonight)

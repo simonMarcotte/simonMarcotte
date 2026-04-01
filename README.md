@@ -5,10 +5,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://simonmarcotte.app)
 
 * 🎓 Pursuing a BSc. in Computer Engineering Co-op at the University of Alberta.
-* 🇨🇦 Software Engineering Intern @ Robinhood | Prev @ Amazon Web Services (AWS), General Fusion
+* 🇨🇦 Prev SWE @ Robinhood, Amazon Web Services (AWS), General Fusion
 
-Hey, I’m Simon Marcotte, a 4th year Computer Engineering student at the University of Alberta. I am currently working in the Oracle Database team at AWS, and I am interested in backend software, hardware, and automation. Feel free to message or email me with any questions.
+Hey, I’m Simon Marcotte, a final-year Computer Engineering student at the University of Alberta. I was previously working in the Fraud Operations Team at Robinhood, and I am interested in backend software and automation. Feel free to message or email me with any questions!
 
-A link to my portfolio website can be found above ([simonmarcotte.io](https://simonmarcotte.io/)) feel free to check it out!
+You can find a link to my portfolio here ([simonmarcotte.io](https://simonmarcotte.io/))! Feel free to check it out!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonMarcotte&hide=javascript,css,scss,html,Jupyter%20Notebook,CMake&theme=tokyonight)
